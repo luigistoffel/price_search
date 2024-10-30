@@ -1,0 +1,3 @@
+https://www.kabum.com.br: Erro ao buscar preço
+https://www.pichau.com.br: Erro ao buscar preço
+https://www.terabyteshop.com.br: Erro ao buscar preço
